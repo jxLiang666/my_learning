@@ -7,4 +7,5 @@
 wsl ubuntu-22.04
 
 ## 目录
-[c++学习记录](cpp_learning/README.md)
+1. [c++学习记录](cpp_learning/README.md)
+2. [rust学习记录](rust_learning/README.md)
