@@ -1,5 +1,5 @@
 # rust_start
-
+参考[rust-lang.org](https://rust-lang.org/learn/get-started/)
 
 ## 说明
 安装rust编程环境
