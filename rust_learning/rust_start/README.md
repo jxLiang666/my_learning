@@ -1,6 +1,10 @@
 # rust_start
 参考[rust-lang.org](https://rust-lang.org/learn/get-started/)
 
+[rust-book](https://doc.rust-lang.org/book/title-page.html) 可以通过 rustup doc --book 打开（wsl不行）
+
+[rust-example](https://doc.rust-lang.org/rust-by-example/)
+
 ## 说明
 安装rust编程环境
 
@@ -91,3 +95,10 @@ cargo run
 会得到
 
 ![main_output.png](img/main_output.png)
+
+### 5. cargo其他补充
+```bash
+cargo build # 默认的是debug模式
+cargo build --release # 如果需要发布，使用release版本
+cargo check # 可以检查代码编译有没有问题，同时不会生成可执行文件
+```
