@@ -9,3 +9,4 @@
 3. 多学一门编程语言未尝不可！
 
 ## 目录
+1. [rust_start](rust_start/README.md) 在wsl上搭建rust编程环境
