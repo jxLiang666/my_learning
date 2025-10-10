@@ -10,3 +10,4 @@
 
 ## 目录
 1. [rust_start](rust_start/README.md) 在wsl上搭建rust编程环境
+2. [rust_charpter2](rust_charpter2/README.md)
